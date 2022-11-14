@@ -109,3 +109,15 @@ Cela correspondra à l'interface 'shortDescription' écrite dans le fichier inte
  ** 4°) créer une nouvelle liste suivant l'interface 'completeDescription'
  **
  */
+
+// Maintenant les petites fonctions amusantes que tu aimes tant :D
+
+// Détecter si des personnes dans la liste ont + de 70 ans et retourner le nombre de personne trouvées
+
+// Détecter si des personnes dans la liste ont une taille comprise entre 1m60 et 1m80 et retourner le poids de ses personnes dans un ordre ascendant
+
+// Détecter si des personnes dans la liste ont le même nom et retourner les noms en doublon
+
+// Détecter si des personnes dans la liste ont le même prénom et retourner les prénoms en doublon
+
+// Détecter si la liste présente une homonymie ou non ( pour rappel, une homonymie est deux personnes différentes mais ayant le même nom et prénom )
